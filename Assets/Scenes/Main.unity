@@ -1090,6 +1090,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   QNum: 0
   QuizText: {fileID: 1257804215}
+  timerText: {fileID: 1525348861}
 --- !u!1 &1959053955
 GameObject:
   m_ObjectHideFlags: 0
